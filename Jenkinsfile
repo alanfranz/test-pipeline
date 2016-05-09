@@ -1,2 +1,2 @@
-echo "this is master"
+echo "this is asd"
 
